@@ -6,8 +6,8 @@ import "./index.css";
 
 function App() {
   return (
-    <div  >
-    <Form />
+    <div>
+      <Form />
       {/* <Input /> */}
       {/* <Login /> */}
       {/* <First /> */}
