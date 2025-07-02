@@ -3,13 +3,15 @@
 // import Input from "./Component3/Input";
 // import Form from "./Component4/Form";
 // import User from "./Component5/User";
-import DropDown from "./Component6/DropDown";
+// import DropDown from "./Component6/DropDown";
+import Loop from "./Component7/Loop";
 import "./index.css";
 
 function App() {
   return (
     <div>
-      <DropDown />
+      <Loop />
+      {/* <DropDown /> */}
       {/* <User /> */}
       {/* <Form /> */}
       {/* <Input /> */}
