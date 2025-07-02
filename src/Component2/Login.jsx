@@ -3,6 +3,7 @@ import Wrapper from "./Wrapper";
 function Login() {
   return (
     <>
+    <h1 className="bg-amber-300">Login Component</h1>
       <h1>Props in React</h1>
       <Wrapper color="orange">
         <h1> Hello Everyone</h1>

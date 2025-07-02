@@ -2,11 +2,11 @@
 // import Login from "./Component2/Login";
 // import Input from "./Component3/Input";
 import Form from "./Component4/Form";
-import "./App.css";
+import "./index.css";
 
 function App() {
   return (
-    <div className="bg-amber-300" >
+    <div  >
     <Form />
       {/* <Input /> */}
       {/* <Login /> */}

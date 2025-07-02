@@ -23,7 +23,7 @@ function First() {
   const [student, setStudent] = useState();
   return (
     <>
-      <h1 className="bg-amber-200">Props in React JS</h1>
+      <h1 className="bg-amber-300">Props in React JS</h1>
       <hr />
       {student && <Student name={student} />}
       <button onClick={() => setStudent("jon")}>Update Student name</button>

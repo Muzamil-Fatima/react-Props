@@ -3,6 +3,7 @@ function Input() {
   const [val, setVal] = useState("Muzamil Ftima");
   return (
     <div>
+      <h3 className="bg-amber-300">Input Component</h3>
       <h1>Get Input field Value</h1>
       <input
         type="text" value={val}
