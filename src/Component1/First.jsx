@@ -1,7 +1,7 @@
 import { useState } from "react";
-import Student from "../Student";
-import Uni from "../Uni";
-import User from "../User";
+import Uni from "../Component1/Uni";
+import Student from "../Component1/Student";
+import User from "../Component1/User";
 
 function First() {
   let userObject = {
